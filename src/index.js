@@ -3,7 +3,7 @@ import ButtonGroup from './buttonGroup.vue';
 import Icon from './icon.vue';
 
 export { Icon, Button, ButtonGroup };
-// import App from './App.vue';
+import App from './App.vue';
 
 // Vue.component('g-button', Button);
 // Vue.component('g-icon', Icon);
